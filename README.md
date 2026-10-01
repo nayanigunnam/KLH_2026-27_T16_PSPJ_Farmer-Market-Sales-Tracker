@@ -1,8 +1,13 @@
-Project Title : Farmer's market and sales tracker Team No : KLH/PSPJAVA/S14/T16 Team Members Names with ID Numbers:
+Project Title : Farmer's market and sales tracker
+
+Team No : KLH/PSPJAVA/S14/T16 Team Members Names with ID Numbers:
 
 2620040164 - N.Thanmayi
+
 2620040007 - G.Nayani
+
 2620030580 - V.D.Sree sai
+
 Supervisor's Name : Dr.Madhavi Karumudi
 
 Abstract : Farmers' Market Price & Sales Tracker
